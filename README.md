@@ -3,8 +3,7 @@
 @-> Olist E-Commerce — End-to-End SQL Data Analysis
 
 >>= A complete MySQL analysis pipeline on 100,000+ real Brazilian e-commerce orders — covering schema design, data import, 
-    cleaning, and business intelligence queries.**
-
+    cleaning, and business intelligence queries.
 
 -> Problem Statement
 
@@ -17,7 +16,6 @@ Olist is a Brazilian marketplace connecting small businesses to major e-commerce
 - Which states suffer from the worst delivery delays, and why does it matter?
 
 This project answers all of the above using pure MySQL — no BI tool required at the analysis stage.
-
 
 @ Dataset
 
@@ -35,7 +33,7 @@ This project answers all of the above using pure MySQL — no BI tool required a
 - `geolocation` = ZIP-to-lat/lng mapping (deduplicated) =19,015 
 - `category_translation` = Portuguese → English category names = 71 
 
-**Time range:** September 2016 – August 2018 (24 months)
+Time range: September 2016 – August 2018 (24 months)
 
 @ Tools & Technologies
 
