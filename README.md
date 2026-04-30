@@ -25,15 +25,15 @@ This project answers all of the above using pure MySQL — no BI tool required a
 
 - Table | Description | ~Rows |
 
-- `customers` | Customer ID, city, state, ZIP | 99,441 |
-- `orders` | Order lifecycle with timestamps | 99,441 |
-- `order_items` | Products per order, prices, freight | 112,650 |
-- `products` | Product dimensions, category, photos | 32,951 |
-- `sellers` | Seller city, state, ZIP | 3,095 |
-- `payments` | Payment type, value, installments | 103,886 |
-- `reviews` | Customer scores and comments | 99,224 |
-- `geolocation` | ZIP-to-lat/lng mapping (deduplicated) | 19,015 |
-- `category_translation` | Portuguese → English category names | 71 |
+- `customers` = Customer ID, city, state, ZIP = 99,441 
+- `orders` = Order lifecycle with timestamps = 99,441 
+- `order_items` = Products per order, prices, freight = 112,650 
+- `products` = Product dimensions, category, photos = 32,951 
+- `sellers` = Seller city, state, ZIP = 3,095 
+- `payments` = Payment type, value, installments = 103,886 
+- `reviews` = Customer scores and comments = 99,224 
+- `geolocation` = ZIP-to-lat/lng mapping (deduplicated) =19,015 
+- `category_translation` = Portuguese → English category names = 71 
 
 **Time range:** September 2016 – August 2018 (24 months)
 
