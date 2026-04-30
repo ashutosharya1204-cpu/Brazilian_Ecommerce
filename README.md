@@ -58,7 +58,7 @@ olist-ecommerce-sql-analysis/
 │   └── 04_Analysis_part.sql       ← Business analysis + Advanced SQL objects
 │
 ├── data/
-│   └── README_data.md             ← Kaggle download instructions (CSVs excluded)
+│   └── README_data.md             ← Kaggle download instructions 
 │
 ├── screenshots/
 │   ├── ERD_schema.png
