@@ -142,6 +142,6 @@ This project demonstrates how SQL can be used to:
 
 ## Author
 
-Meraj Sheikh
+Ashutosh Sahu
 Data Science and Analytics Enthusiast
 Skilled in SQL, Python, Power BI, and Machine Learning
